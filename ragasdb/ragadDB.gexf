@@ -1,0 +1,3097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-11-27">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="RAGA" title="RAGA" type="string"></attribute>
+      <attribute id="THAAT" title="THAAT" type="string"></attribute>
+      <attribute id="TIME" title="TIME" type="string"></attribute>
+      <attribute id="AAROHA" title="AAROHA" type="string"></attribute>
+      <attribute id="AVAROHA" title="AVAROHA" type="string"></attribute>
+      <attribute id="VADI" title="VADI" type="string"></attribute>
+      <attribute id="SAMVADI" title="SAMVADI" type="string"></attribute>
+      <attribute id="PAKAD" title="PAKAD" type="string"></attribute>
+      <attribute id="JATI" title="JATI" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="78" label="n77">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-312.45587" y="-142.3216" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="79" label="n78">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="126.235535" y="288.5135" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="80" label="n79">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="367.80475" y="431.15973" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="81" label="n80">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="307.2884" y="-480.0618" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="82" label="n81">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="216.31958" y="344.99927" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="83" label="n82">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-466.69144" y="-75.30063" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="84" label="n83">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="136.19049" y="189.44366" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="85" label="n84">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-109.235535" y="-415.78296" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="86" label="n85">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-278.6599" y="-410.09134" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="87" label="n86">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.5616455" y="-317.00394" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="88" label="n87">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="299.91754" y="321.25647" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="89" label="n88">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="434.49536" y="-14.881226" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="90" label="n89">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-274.2743" y="-101.626495" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="91" label="n90">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-316.30917" y="-220.33139" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="92" label="n91">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-131.25046" y="272.10736" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="93" label="n92">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-373.48053" y="-299.97894" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="94" label="n93">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-36.12564" y="-399.55826" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="95" label="n94">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-281.75885" y="365.8863" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="96" label="n95">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-408.86096" y="61.859314" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="97" label="n96">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-473.89697" y="497.18054" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="98" label="n97">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="81.379456" y="331.1618" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="99" label="n98">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-272.29138" y="5.25119" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="100" label="n99">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-432.12814" y="-352.41223" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="101" label="n100">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-417.63174" y="-420.32635" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="102" label="n101">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-262.40308" y="370.88843" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="103" label="n102">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-189.60165" y="457.7845" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="104" label="n103">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-424.99866" y="-456.908" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="105" label="n104">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-367.2813" y="389.31097" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="106" label="n105">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="36.641663" y="252.00781" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="107" label="n106">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="446.73096" y="289.90112" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="108" label="n107">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-353.1466" y="-472.90875" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="109" label="n108">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="244.3435" y="-284.9447" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="110" label="n109">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="462.5962" y="89.111755" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="111" label="n110">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="414.1413" y="79.9046" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="112" label="n111">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-280.1167" y="-477.86475" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="113" label="n112">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.081299" y="500.4762" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="114" label="n113">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-255.28839" y="339.65332" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="115" label="n114">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-66.272064" y="238.53345" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="116" label="n115">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="388.16632" y="-23.737762" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="117" label="n116">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-324.0749" y="-5.2294617" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="118" label="n117">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="328.3824" y="-47.885803" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="119" label="n118">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-463.06586" y="-285.9104" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="120" label="n119">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="71.302124" y="329.43414" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="121" label="n120">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="171.45013" y="141.88202" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="122" label="n121">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="377.6765" y="108.71588" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="123" label="n122">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="390.5421" y="101.68109" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="124" label="n123">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="145.51581" y="396.78113" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="125" label="n124">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.55545" y="352.2495" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="126" label="n125">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="485.20215" y="19.705566" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="127" label="n126">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="68.26129" y="-73.89087" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="128">
+        <attvalues>
+          <attvalue for="RAGA" value="Aarabhi"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P m G R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="m"></attvalue>
+          <attvalue for="PAKAD" value="'D S R m G R S 'N 'D S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="174.78601" y="44.73291" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="129">
+        <attvalues>
+          <attvalue for="RAGA" value="Abhogi"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R g m  D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D m g R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="'D S R g m R g m R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-302.42133" y="-83.19803" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="130">
+        <attvalues>
+          <attvalue for="RAGA" value="Adana"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S R g M P n P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' d n P g M R s"></attvalue>
+          <attvalue for="VADI" value="S'"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S d n S' d n P M P g M R s"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="463.31567" y="-233.03445" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="131">
+        <attvalues>
+          <attvalue for="RAGA" value="Ahir Bhairav"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="At daybreak, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G m P D n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m G r S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S r G M G M r _ _ _ r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="362.82465" y="448.4571" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="132">
+        <attvalues>
+          <attvalue for="RAGA" value="Ahiri"></attvalue>
+          <attvalue for="THAAT" value="Bhairavi"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r g m P D n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P m G R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="P D n D m g r g S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-458.46292" y="-248.46472" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="133">
+        <attvalues>
+          <attvalue for="RAGA" value="Alhaiya Bilaval"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S G R G P N D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D n D P M G M R S"></attvalue>
+          <attvalue for="VADI" value="D"></attvalue>
+          <attvalue for="SAMVADI" value="G"></attvalue>
+          <attvalue for="PAKAD" value="G R P D N S"></attvalue>
+          <attvalue for="JATI" value="Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-121.91748" y="-426.04807" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="134">
+        <attvalues>
+          <attvalue for="RAGA" value="Amritavarshini"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G M P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N P M G S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="G M P N S' N P M P G M P"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-454.06558" y="392.4651" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="135">
+        <attvalues>
+          <attvalue for="RAGA" value="Asavari"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m G r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="g"></attvalue>
+          <attvalue for="PAKAD" value="R m P n D P"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-422.81653" y="-126.519745" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="136">
+        <attvalues>
+          <attvalue for="RAGA" value="Asavari sindhura"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P d m P g R m m g S R S"></attvalue>
+          <attvalue for="VADI" value="S'"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="m P D S' n d P D m P D S'"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="423.52295" y="21.807312" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="137">
+        <attvalues>
+          <attvalue for="RAGA" value="Anandbhairavi"></attvalue>
+          <attvalue for="THAAT" value="Bhairavi"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G m P m P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D n P m G m r S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="r G m P S' D n P m G m r"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="312.4054" y="-70.22452" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="138">
+        <attvalues>
+          <attvalue for="RAGA" value="Bageshri"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Around Midnight, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="N S g m D n S"></attvalue>
+          <attvalue for="AVAROHA" value="S� n D m P D g m g R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="D n s m m P D m g R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.16916" y="-110.86514" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="139">
+        <attvalues>
+          <attvalue for="RAGA" value="Bahar"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Around Midnight, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="n S m m P g m n D N S"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m P g m R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S m m P g m n D N S'"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-264.7626" y="2.977295" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="140">
+        <attvalues>
+          <attvalue for="RAGA" value="Barari"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S 'N r G r G P M D S"></attvalue>
+          <attvalue for="AVAROHA" value="S' N r N D M G P G r S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="D"></attvalue>
+          <attvalue for="PAKAD" value="S P G r G P M D S' r' N D P G r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="326.4886" y="75.15668" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="141">
+        <attvalues>
+          <attvalue for="RAGA" value="Basant"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Spring Season , 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S G M d r' S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P M G M G r S"></attvalue>
+          <attvalue for="VADI" value="S'"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="M d r' S' N d P M G M G"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.127258" y="254.32391" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="142">
+        <attvalues>
+          <attvalue for="RAGA" value="Bahar basanth"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S m m P g m n D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P M G M G M G r S"></attvalue>
+          <attvalue for="VADI" value="S'"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S m P g m n D N S' N d S' N d P M G M G M G r S"></attvalue>
+          <attvalue for="JATI" value="mishra/Sankeerna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.85263" y="-84.216705" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="143">
+        <attvalues>
+          <attvalue for="RAGA" value="Bangalbhairav"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="At daybreak, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G m P d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' d P m P G m r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="r"></attvalue>
+          <attvalue for="PAKAD" value="S 'd S S r d d P G m r s"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-64.09558" y="-472.87738" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="144">
+        <attvalues>
+          <attvalue for="RAGA" value="Barva"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m P g R g S"></attvalue>
+          <attvalue for="VADI" value="S'"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="G R g S N' S R m P D m G R g S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="56.95404" y="-333.7138" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="145">
+        <attvalues>
+          <attvalue for="RAGA" value="Badhans"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S R m R m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S n P m P m R R 'N S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S R m n P m R m 'N R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-231.79346" y="49.89801" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="146">
+        <attvalues>
+          <attvalue for="RAGA" value="Bhairav"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="At daybreak, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G m P G m d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N S' d P G m P G m r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="r"></attvalue>
+          <attvalue for="PAKAD" value="S G m P G m d P G m P G m r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="129.57056" y="-55.233612" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="147">
+        <attvalues>
+          <attvalue for="RAGA" value="Bhairavi"></attvalue>
+          <attvalue for="THAAT" value="Bhairavi"></attvalue>
+          <attvalue for="TIME" value="Morning/concert end,6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r g m P d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d P m g r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="n S g m d P g m P g m r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="101.11731" y="-60.688873" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="148">
+        <attvalues>
+          <attvalue for="RAGA" value="Bhatiyar"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Early Morning, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S r S S m P G M D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' r' N D P D P m P G r S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S D m P G P G r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="222.7309" y="-40.03192" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="149">
+        <attvalues>
+          <attvalue for="RAGA" value="Bhankar"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="At daybreak, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="N r S G m P G M D M G M D S N r' S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' r' N D M m G m G r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S' r' N D M m G m r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.64151" y="49.389587" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="150">
+        <attvalues>
+          <attvalue for="RAGA" value="Bhim"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S G m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="g' R' S' n D m D m G R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="n S' g' R' S' n D m G R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-41.410706" y="-349.45776" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="151">
+        <attvalues>
+          <attvalue for="RAGA" value="Bengali"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Monsoon"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="R' N P D m P G S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S R m P D m P G S R P m"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="473.76086" y="-461.1973" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="152">
+        <attvalues>
+          <attvalue for="RAGA" value="Bhimpalasi"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Early Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="N S g m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S� n D P m g R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="N S g m P g m g R n S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="280.61804" y="-358.8132" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="153">
+        <attvalues>
+          <attvalue for="RAGA" value="Bhoopal-Todi"></attvalue>
+          <attvalue for="THAAT" value="Bhairavi"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r g P d S"></attvalue>
+          <attvalue for="AVAROHA" value="S d P g r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="g"></attvalue>
+          <attvalue for="PAKAD" value="S r d S r g r S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-247.62857" y="509.36182" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="154">
+        <attvalues>
+          <attvalue for="RAGA" value="Bhoopali"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D P G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="D"></attvalue>
+          <attvalue for="PAKAD" value="S G R S� D S R G"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.4259644" y="355.65973" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="155">
+        <attvalues>
+          <attvalue for="RAGA" value="Bibhas"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="At daybreak"></attvalue>
+          <attvalue for="AAROHA" value="S r G P d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' d P G r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="G"></attvalue>
+          <attvalue for="PAKAD" value="G P d G P G r S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="177.43774" y="206.62122" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="156">
+        <attvalues>
+          <attvalue for="RAGA" value="Bihag"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'N S G m P N S"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M P G m G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="P G m G R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="307.05927" y="-282.51874" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="157">
+        <attvalues>
+          <attvalue for="RAGA" value="Bihagda"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="'N S G m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P n D P D G m G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="n D P D G m G R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="124.642456" y="-432.60043" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="158">
+        <attvalues>
+          <attvalue for="RAGA" value="Bilaskhani Todi"></attvalue>
+          <attvalue for="THAAT" value="Bhairavi"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G P d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' r' n d  m g r g r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="g"></attvalue>
+          <attvalue for="PAKAD" value="S' r' n d g P d n d m g r g r S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.54196" y="-383.7874" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="159">
+        <attvalues>
+          <attvalue for="RAGA" value="Bhup"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R G P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D P G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="D"></attvalue>
+          <attvalue for="PAKAD" value="S R G R G R G R P G R G S R 'D S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="451.34412" y="349.2389" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="160">
+        <attvalues>
+          <attvalue for="RAGA" value="Brindabani Sarang"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Early Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'N S R m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S n P m R N' S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="n P m R m R 'N S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-82.45639" y="-279.4817" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="161">
+        <attvalues>
+          <attvalue for="RAGA" value="Chandrakauns"></attvalue>
+          <attvalue for="THAAT" value="Bhairavi"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S g m d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' R' S' N d m g S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="g m g 'N g S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="245.2135" y="-316.73907" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="162">
+        <attvalues>
+          <attvalue for="RAGA" value="Chandrakanth"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="G M P D P M G R S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="181.80176" y="278.78986" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="163">
+        <attvalues>
+          <attvalue for="RAGA" value="Chandni,Kedar"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S m M M P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P D P M m R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="D N D P D P M m R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="423.5365" y="-345.4218" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="164">
+        <attvalues>
+          <attvalue for="RAGA" value="Chhayanat"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G m P R G m D P P S' N S'"></attvalue>
+          <attvalue for="AVAROHA" value="R' S' N D P R G M R S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="P R G m P m G m R S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.529449" y="263.92828" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="165">
+        <attvalues>
+          <attvalue for="RAGA" value="Darbari Kanada"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Midnight, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S r g m P d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="R' n S' d n P m P g m R S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S R g R S 'd 'n R S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-483.41098" y="433.36157" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="166">
+        <attvalues>
+          <attvalue for="RAGA" value="Desi"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' P D P d m P R g S R 'n S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="R"></attvalue>
+          <attvalue for="PAKAD" value="P D m P g r S r 'n S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="407.02216" y="-409.04572" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="167">
+        <attvalues>
+          <attvalue for="RAGA" value="Desh"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'N S R m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="N S' R' n D P D m G R G 'N S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="R m P n D P D m G R G 'N S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-464.12936" y="-445.13904" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="168">
+        <attvalues>
+          <attvalue for="RAGA" value="Deshkar"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D P D P G R 'D S"></attvalue>
+          <attvalue for="VADI" value="D"></attvalue>
+          <attvalue for="SAMVADI" value="G"></attvalue>
+          <attvalue for="PAKAD" value="S D P D S' D P D G P G P D P G R S R' D S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="261.6737" y="164.43408" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="169">
+        <attvalues>
+          <attvalue for="RAGA" value="Devagiribilaval"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R G P N D N S"></attvalue>
+          <attvalue for="AVAROHA" value="S N D P P m G R 'N R 'N R G m G G R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="G m G R 'N R 'N G G R 'N S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="301.61707" y="178.12238" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="170">
+        <attvalues>
+          <attvalue for="RAGA" value="Devaranjani"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S m m P d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d n P d m n S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S m m P d N S' d P m S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-230.43262" y="197.27997" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="171">
+        <attvalues>
+          <attvalue for="RAGA" value="Devgiri"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R G P N D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S N D P P m G R N' R N' R G m G G R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="G m G R 'N R 'N G G R 'N S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-16.105225" y="-459.16217" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="172">
+        <attvalues>
+          <attvalue for="RAGA" value="Dev gandhar"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P d m P d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d P m P g R S R n S R G m P g R S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="G"></attvalue>
+          <attvalue for="PAKAD" value="m P d m P g R S R n S R G m"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-455.85223" y="-416.6952" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="173">
+        <attvalues>
+          <attvalue for="RAGA" value="Deepak Kedar"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Night, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R M P D P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N P M P m R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S'"></attvalue>
+          <attvalue for="PAKAD" value="S R M P D P m R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-102.28607" y="371.7127" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="174">
+        <attvalues>
+          <attvalue for="RAGA" value="Dhanabasanti"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G M d N S"></attvalue>
+          <attvalue for="AVAROHA" value="S N d P M G M G G M r G M G r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="M d S N d P M G M G G M r G M G r S S m G M d N S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-487.18137" y="102.97992" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="175">
+        <attvalues>
+          <attvalue for="RAGA" value="Dhani"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Any time day or night"></attvalue>
+          <attvalue for="AAROHA" value="'n S g m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m g R S"></attvalue>
+          <attvalue for="VADI" value="g"></attvalue>
+          <attvalue for="SAMVADI" value="n"></attvalue>
+          <attvalue for="PAKAD" value="g m n P g R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-215.02313" y="-278.07245" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="176">
+        <attvalues>
+          <attvalue for="RAGA" value="Dhanashree"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Late Evening, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'n S g m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m g R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="'n S g m P g m g R n S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-299.17932" y="-104.83438" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="177">
+        <attvalues>
+          <attvalue for="RAGA" value="Durga"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D P D m R 'D S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="m P D P D m R P m R 'D S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-85.28482" y="-466.28082" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="178">
+        <attvalues>
+          <attvalue for="RAGA" value="Gaara"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="No specific time"></attvalue>
+          <attvalue for="AAROHA" value="S G m P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n  D P m g R S 'N S 'n 'D S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="'N S R 'n 'D 'D 'n 'S 'N 'S 'D 'n S R G R S R m g R S 'D 'n 'D S"></attvalue>
+          <attvalue for="JATI" value="Mishra/Sankeerna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="436.50073" y="-62.84433" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="179">
+        <attvalues>
+          <attvalue for="RAGA" value="Gandhari"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d n d P m g r s"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="g"></attvalue>
+          <attvalue for="PAKAD" value="R m P d P n d S n d P"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="337.9485" y="276.79883" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="180">
+        <attvalues>
+          <attvalue for="RAGA" value="Gavati"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'n S G m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S n S' D P m P G m R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="P n S' D P G m R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="344.0918" y="241.19452" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="181">
+        <attvalues>
+          <attvalue for="RAGA" value="Gaud Malhar"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Any time in rainy season"></attvalue>
+          <attvalue for="AAROHA" value="S R G m R P m P n D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D n P m P m R G R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S R G m m R P n D n P m G m R S"></attvalue>
+          <attvalue for="JATI" value="Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-455.36743" y="152.27283" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="182">
+        <attvalues>
+          <attvalue for="RAGA" value="Gaud Sarang"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Early Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'N S G R m G P M D P N D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D P M P G m R G R m G P R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="D"></attvalue>
+          <attvalue for="PAKAD" value="G R m G P R S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-270.6186" y="97.69946" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="183">
+        <attvalues>
+          <attvalue for="RAGA" value="Gorakh Kalyan"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m D n D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D m R R m P m R 'n 'D S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="m"></attvalue>
+          <attvalue for="PAKAD" value="'D S R m R 'n 'D S m D n D m R R m P m R 'n 'D S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-412.45398" y="-311.0752" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="184">
+        <attvalues>
+          <attvalue for="RAGA" value="Gouri"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G r G G m P m P d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P d P m G G r 'N S 'N S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="m d P d m P G m r G r S r S 'N"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-390.84708" y="-26.262268" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="185">
+        <attvalues>
+          <attvalue for="RAGA" value="Gujari Todi"></attvalue>
+          <attvalue for="THAAT" value="Todi"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S r g M d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d M g r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="r"></attvalue>
+          <attvalue for="PAKAD" value="M d N d M g r g r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="461.5993" y="38.164246" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="186">
+        <attvalues>
+          <attvalue for="RAGA" value="Gunak(ri)ali"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="At daybreak, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r m P d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' d P m r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="r"></attvalue>
+          <attvalue for="PAKAD" value="r m P d d P m r r 'd S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-312.9576" y="-390.1195" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="187">
+        <attvalues>
+          <attvalue for="RAGA" value="Gunjikanada"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G R m m P g D n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D n P g g m R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S 'n 'n S S R g g m R S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="156.93011" y="-88.35779" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="188">
+        <attvalues>
+          <attvalue for="RAGA" value="Gowri"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Late Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r M P M d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P d m P M d M G r G r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="N d P d m M d M G r G r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="36.462585" y="449.37488" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="189">
+        <attvalues>
+          <attvalue for="RAGA" value="Hamir"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G m D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M P G m R S"></attvalue>
+          <attvalue for="VADI" value="D"></attvalue>
+          <attvalue for="SAMVADI" value="G"></attvalue>
+          <attvalue for="PAKAD" value="G m D N S'"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="340.28473" y="-100.52078" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="190">
+        <attvalues>
+          <attvalue for="RAGA" value="Hamsadhwani"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N P G R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="R G P R G P N P G R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="115.50159" y="-219.35345" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="191">
+        <attvalues>
+          <attvalue for="RAGA" value="Hamsakankini"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'N S G m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S n D P m P g m P g R S 'N 'N S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S' G m P P n D P m P g R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="61.56555" y="-142.75375" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="192">
+        <attvalues>
+          <attvalue for="RAGA" value="HemaKalyan"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Night, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="'P 'D 'P S R S G m P D P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S D P G m P G m R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="P D P S R S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="9.212555" y="-122.53525" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="193">
+        <attvalues>
+          <attvalue for="RAGA" value="Hindol"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Early Morning, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S G M D N D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D M G S"></attvalue>
+          <attvalue for="VADI" value="D"></attvalue>
+          <attvalue for="SAMVADI" value="G"></attvalue>
+          <attvalue for="PAKAD" value="S G M N D M G S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="231.0592" y="156.28552" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="194">
+        <attvalues>
+          <attvalue for="RAGA" value="Jaijaivanti"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="'N S R G m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m G R N' S 'D ' n R"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="R G m P D G m R G 'N S 'D 'n R"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="471.46924" y="-19.327667" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="195">
+        <attvalues>
+          <attvalue for="RAGA" value="Jaithkalyan"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G P P D P P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' P P D P P D P G R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S'"></attvalue>
+          <attvalue for="PAKAD" value="S G P P D P P G P G S R S S P D P S' P D P G S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-132.25821" y="-145.34802" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="196">
+        <attvalues>
+          <attvalue for="RAGA" value="Jaikauns"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="'N S g m M m D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D m M m g S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="N/A"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="421.5683" y="181.20392" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="197">
+        <attvalues>
+          <attvalue for="RAGA" value="Jaladhar"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="After sunset, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R S m m P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D P m R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="D P m R S m"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="280.1908" y="264.90228" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="198">
+        <attvalues>
+          <attvalue for="RAGA" value="Jaunpuri"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d P m g R s"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="g"></attvalue>
+          <attvalue for="PAKAD" value="m P d n S n d P m P g R m P d P"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="40.018494" y="136.18542" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="199">
+        <attvalues>
+          <attvalue for="RAGA" value="Jaimini kalyan"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="'N R G M D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M G m G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="'N 'D 'N R G G m G R 'N G R S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="409.01605" y="-29.845795" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="200">
+        <attvalues>
+          <attvalue for="RAGA" value="Jhinjoti"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m G R G R R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="D S R m G P m G R S 'n 'D 'P"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="503.46472" y="78.22815" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="201">
+        <attvalues>
+          <attvalue for="RAGA" value="Janasamohini"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Night, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R G P D n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P G P G R S 'n 'D S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="P D n D P G R S 'n 'D S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-466.64496" y="71.282776" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="202">
+        <attvalues>
+          <attvalue for="RAGA" value="Jog"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S G m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m G m g S g S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S G G m S g 'n g S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-299.54858" y="-237.39847" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="203">
+        <attvalues>
+          <attvalue for="RAGA" value="Jogiya"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="At daybreak, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r m P d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P d m G r S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="m P d r' S' N d P m G r S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="423.8601" y="335.8167" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="204">
+        <attvalues>
+          <attvalue for="RAGA" value="Kafi"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Night, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R g m P D n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n  D P m g R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="R"></attvalue>
+          <attvalue for="PAKAD" value="S R R g m P m P m P m P g R"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.261414" y="-162.21115" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="205">
+        <attvalues>
+          <attvalue for="RAGA" value="Kalingda"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Early Morning, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S r G m P d P d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P m G r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="P d P m G r S' N S r G m G r G r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-189.26102" y="-36.957184" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="206">
+        <attvalues>
+          <attvalue for="RAGA" value="Kamod"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Night, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R P m P D P N D S"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M P D P G m P G m R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="R"></attvalue>
+          <attvalue for="PAKAD" value="S R P g m P g m R S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="81.142456" y="-378.0002" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="207">
+        <attvalues>
+          <attvalue for="RAGA" value="Kaunsi Kanada"></attvalue>
+          <attvalue for="THAAT" value="Bhairavi"></attvalue>
+          <attvalue for="TIME" value="Around Midnight, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'N S m g m d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d m P m g R g m R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="N/A"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-272.20837" y="-119.97806" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="208">
+        <attvalues>
+          <attvalue for="RAGA" value="Kedar"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S m m P M P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M P D n D P M P D P m P m R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="M P D P m P m S R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.622162" y="421.5354" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="209">
+        <attvalues>
+          <attvalue for="RAGA" value="Khambavati"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S n D P D m G S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="n D P D P m P G S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-107.979675" y="-160.33505" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="210">
+        <attvalues>
+          <attvalue for="RAGA" value="Khamaj"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G m P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="G m n D P D m G P"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="154.1402" y="336.4699" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="211">
+        <attvalues>
+          <attvalue for="RAGA" value="Khat"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="R 'n S g m P d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="R' S' n D P m P g m R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="R 'n S g m P d D n P S' n D P"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-216.72809" y="104.71283" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="212">
+        <attvalues>
+          <attvalue for="RAGA" value="Kirvani"></attvalue>
+          <attvalue for="THAAT" value=""></attvalue>
+          <attvalue for="TIME" value="Anytime in monsoon"></attvalue>
+          <attvalue for="AAROHA" value="S R g m P d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P m g R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="N/A"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="384.67084" y="-35.065033" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="213">
+        <attvalues>
+          <attvalue for="RAGA" value="Kukubh"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Early Morning, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S R G P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D n D P m G R S S R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="G R G P m G m R S S R"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="499.50403" y="170.41034" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="214">
+        <attvalues>
+          <attvalue for="RAGA" value="Lachchha"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G R G P m P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D n P m G P m G R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="P m G m m n D P m G m R S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-429.69168" y="-460.6378" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="215">
+        <attvalues>
+          <attvalue for="RAGA" value="Lalit"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Before Sunrise, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'N r G m M m G M d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d M m G r S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S'"></attvalue>
+          <attvalue for="PAKAD" value="'N r G m d m d M m G M G r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-219.34906" y="-196.14246" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="216">
+        <attvalues>
+          <attvalue for="RAGA" value="Lalitpancham"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="N r G m M G M D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D N D P D M d M m G M G r  S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="M D N D P D M m G M r  S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-439.965" y="-193.6399" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="217">
+        <attvalues>
+          <attvalue for="RAGA" value="Lalitapancham"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="N r G m M G M D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D N D P D M d M m G M G r S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="M D N D P D M m G M G r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-182.30399" y="-340.53052" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="218">
+        <attvalues>
+          <attvalue for="RAGA" value="Lankadahansaarang"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S R m P n P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D n P m P g g m R S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S' D n P g m R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="285.78772" y="396.47125" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="219">
+        <attvalues>
+          <attvalue for="RAGA" value="Naat"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G m P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P m g R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S G m P G m R G m P m G m R S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-406.55893" y="-132.33118" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="220">
+        <attvalues>
+          <attvalue for="RAGA" value="Naat Malhar"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G m m R P n D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' D n P m G R R G G m R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S R G m m R P D n P m P"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-433.69275" y="-479.12314" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="221">
+        <attvalues>
+          <attvalue for="RAGA" value="Naatbhairav"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R G m P d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P m G R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S R G m d P G m R S R 'N 'd S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-462.403" y="287.8827" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="222">
+        <attvalues>
+          <attvalue for="RAGA" value="Nata bihag"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G m P P N N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P G m n D P m G m G R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="G m n D P P m G R G m P m G R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="280.56055" y="-420.8145" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="223">
+        <attvalues>
+          <attvalue for="RAGA" value="Maand"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G m P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P D P N D P G m G R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="G m P D N S'"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="221.20032" y="-432.89124" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="224">
+        <attvalues>
+          <attvalue for="RAGA" value="Madhmad Sarang"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Early Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S R m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m R R 'n S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="'n S R P m R 'n R S m P n P m R m R S' n S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="384.27704" y="-334.2368" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="225">
+        <attvalues>
+          <attvalue for="RAGA" value="Madhuvanti"></attvalue>
+          <attvalue for="THAAT" value="Todi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'N S g M P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M P D n D P M g R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="D M P g M g R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-336.00397" y="-248.23769" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="226">
+        <attvalues>
+          <attvalue for="RAGA" value="Madhmadi saarang"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m R R 'n S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="'n S R P m R 'n R S m P n P m R m R S' n S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="419.89746" y="21.632874" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="227">
+        <attvalues>
+          <attvalue for="RAGA" value="Malashri"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G P N S"></attvalue>
+          <attvalue for="AVAROHA" value="S P M P G S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S P M P G S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-416.69284" y="-36.789276" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="228">
+        <attvalues>
+          <attvalue for="RAGA" value="Malgunj"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R G m D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m G m g R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="G m g R S 'N S 'D 'n  S G m"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-246.75676" y="194.7901" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="229">
+        <attvalues>
+          <attvalue for="RAGA" value="Malkauns"></attvalue>
+          <attvalue for="THAAT" value="Bhairavi"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S g m d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d m g S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="'d n S m g m d g m g 'n S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-425.95355" y="-433.65308" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="230">
+        <attvalues>
+          <attvalue for="RAGA" value="Maligaura"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r 'N 'd 'N r G M G M P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' r' N d P N M G M 'N r S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S r 'N 'd 'N P d M G M G r G"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-240.53043" y="43.854736" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="231">
+        <attvalues>
+          <attvalue for="RAGA" value="Maluha"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="R 'N S m R S m G P M D M P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D M P G P G m  R S 'n 'D 'P 'm 'P S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="m R S S 'd 'P 'm 'P 'P 'N 'N S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-223.09268" y="335.7492" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="232">
+        <attvalues>
+          <attvalue for="RAGA" value="Malwi"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G P M d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N P M G r S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="G P M d S' N P G M G r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-423.6236" y="-251.70428" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="233">
+        <attvalues>
+          <attvalue for="RAGA" value="Malav"></attvalue>
+          <attvalue for="THAAT" value="Bhairavi"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S G m d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d P D D n D P m G m G m g g S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S' n d P D D n D P m G m g S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="65.40411" y="355.41968" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="234">
+        <attvalues>
+          <attvalue for="RAGA" value="Maru Bihag"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="N S G M P m G M P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M G M G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="P G M G R S S m G S G M P"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-155.09387" y="-326.96143" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="235">
+        <attvalues>
+          <attvalue for="RAGA" value="Marg Bihag"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Early Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="'N S G M P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S 'N D P M G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="G M P N D M G M G R S R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="162.31458" y="-224.2109" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="236">
+        <attvalues>
+          <attvalue for="RAGA" value="Marva"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="At Sunset, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'N r G M D N D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D M G r S"></attvalue>
+          <attvalue for="VADI" value="r"></attvalue>
+          <attvalue for="SAMVADI" value="D"></attvalue>
+          <attvalue for="PAKAD" value="D M G r G M G r 'N S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="64.667175" y="276.08453" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="237">
+        <attvalues>
+          <attvalue for="RAGA" value="Manohari amba"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R g m D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D m g R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="m g R 'N S 'D 'N S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="382.2107" y="95.6214" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="238">
+        <attvalues>
+          <attvalue for="RAGA" value="Meeramalhaar"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Any time in rainy season"></attvalue>
+          <attvalue for="AAROHA" value="S R P n D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' R' d d n P m P g g m R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="P n D N S' R' d d n P"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-193.42087" y="244.841" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="239">
+        <attvalues>
+          <attvalue for="RAGA" value="Megh"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Any time in rainy season"></attvalue>
+          <attvalue for="AAROHA" value="S m R P m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="R R S 'n S m R p m R n S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.85391" y="336.64575" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="240">
+        <attvalues>
+          <attvalue for="RAGA" value="Mohiniahi"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S r G m P D n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P m G R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="n"></attvalue>
+          <attvalue for="PAKAD" value="S R G m P d P m g R g S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="45.242676" y="-299.81757" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="241">
+        <attvalues>
+          <attvalue for="RAGA" value="Miya ki Malhaar"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Any time in rains/midnight"></attvalue>
+          <attvalue for="AAROHA" value="'N S m R P m P n D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N S' D n m P g m R S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="R P g m R S 'n ' D 'N S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="457.20166" y="335.19043" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="242">
+        <attvalues>
+          <attvalue for="RAGA" value="(Miya ki) Todi"></attvalue>
+          <attvalue for="THAAT" value="Todi"></attvalue>
+          <attvalue for="TIME" value="Late Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S r g M d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P M g r s"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="g"></attvalue>
+          <attvalue for="PAKAD" value="g M d M d N d N d P M d M g r g r g r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="300.39667" y="-383.16724" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="243">
+        <attvalues>
+          <attvalue for="RAGA" value="Multani"></attvalue>
+          <attvalue for="THAAT" value="Todi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'N S g M P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P M g r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="'N S M g M P g M g M g S N' S g r S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-273.52625" y="387.78687" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="244">
+        <attvalues>
+          <attvalue for="RAGA" value="Narayani"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Late Night, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D n D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="R m P n D P"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="109.83142" y="-425.5212" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="245">
+        <attvalues>
+          <attvalue for="RAGA" value="Pancham"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="Night, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S m G M D N D N M D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D M D M G r s"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="M D S' N D M D M G r S S m G M D N D N M D"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-141.77844" y="-343.34082" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="246">
+        <attvalues>
+          <attvalue for="RAGA" value="Patdip"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'N S g m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N S' D P m P g R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="g m P N D N S' D P m P g"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-404.61487" y="-423.904" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="247">
+        <attvalues>
+          <attvalue for="RAGA" value="Pahadi"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Night, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="'P 'D S R G P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P m G R S 'D 'P 'D S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S 'D 'P 'D 'm 'G 'P 'D 'S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="310.27362" y="66.20734" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="248">
+        <attvalues>
+          <attvalue for="RAGA" value="Paraj"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'N S G M P d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P M P d P m G r s"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S' N d P M P d P G m G M G r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-470.84106" y="-51.7128" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="249">
+        <attvalues>
+          <attvalue for="RAGA" value="Palasi"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S g m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m G R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S'"></attvalue>
+          <attvalue for="PAKAD" value="P n P m g R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="177.42694" y="-96.959625" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="250">
+        <attvalues>
+          <attvalue for="RAGA" value="Pilu"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'N S R m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m P d P m G m P g R S 'N S g r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="G m P g R S' N S"></attvalue>
+          <attvalue for="JATI" value="Mishra/Sankeerna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="358.8429" y="273.00598" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="251">
+        <attvalues>
+          <attvalue for="RAGA" value="Puriya"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="Just after sunset, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'N r G M D N r' S'"></attvalue>
+          <attvalue for="AVAROHA" value="r' N D M G M G r S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="G N r' S M G r G 'N r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="171.45288" y="-30.191162" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="252">
+        <attvalues>
+          <attvalue for="RAGA" value="Puriyadhanashri"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="After sunset, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'N r G M d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N r' N d P M G M r G r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="'N r M G P M d N d P M G M r G r S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="109.05432" y="-109.144135" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="253">
+        <attvalues>
+          <attvalue for="RAGA" value="Purva Kalyaan"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="'N r G M D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M G r G r S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="N D P M G M D M G r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-148.54105" y="-62.967377" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="254">
+        <attvalues>
+          <attvalue for="RAGA" value="Prabhat"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G m M G G m P d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P m m d M m G r G M G r S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="G m d d P G m M d M m G m"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-60.154358" y="-236.77194" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="255">
+        <attvalues>
+          <attvalue for="RAGA" value="Pradeepaki"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S G m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n  D P m g R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="G m P g m g R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="157.73761" y="487.31476" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="256">
+        <attvalues>
+          <attvalue for="RAGA" value="Purba"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="Late Evening , 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'N r G M D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M G r G r S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="N D P M G M D M G r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="414.04974" y="383.859" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="257">
+        <attvalues>
+          <attvalue for="RAGA" value="Poorvi"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Sunset, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="'N r G M d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P M G m r G M G r S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="P d P M G m r G M G r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-349.13428" y="-47.222504" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="258">
+        <attvalues>
+          <attvalue for="RAGA" value="Rageshri"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'n S G M D n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D m G m R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="'D 'n S G m G m R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="201.88507" y="-10.038727" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="259">
+        <attvalues>
+          <attvalue for="RAGA" value="Ramkali"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="At daybreak, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G m P G m d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P M P d d P G m r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="M P  d n d P G m R S G m P"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="112.701294" y="409.25214" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="260">
+        <attvalues>
+          <attvalue for="RAGA" value="Reva"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G P d P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' d P G r S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S r g P d P G S r G r G"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="34.253784" y="-461.09976" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="261">
+        <attvalues>
+          <attvalue for="RAGA" value="Ram Priya"></attvalue>
+          <attvalue for="THAAT" value="Todi"></attvalue>
+          <attvalue for="TIME" value="Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S r G m P n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m G m g r S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="P n P m G m g r g r S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="327.0573" y="-390.30072" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="262">
+        <attvalues>
+          <attvalue for="RAGA" value="Sarparda"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Early Morning, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S R G G R G m P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P D n D P m G R G R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="D n D P m G R G R S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="205.42218" y="-211.5404" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="263">
+        <attvalues>
+          <attvalue for="RAGA" value="Saajgiro"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="N r G M G M P d P m N D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N r' N d P P D G M D G M G r S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="m N D S' N r' N d P P D G M G r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-74.78467" y="-285.46814" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="264">
+        <attvalues>
+          <attvalue for="RAGA" value="Samanthasarang"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S R m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P m R m R 'N S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="R M P n D P m R"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-178.71988" y="347.05975" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="265">
+        <attvalues>
+          <attvalue for="RAGA" value="Shahana"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="R n S g m P n D n P m P n P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D n P m P g m R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="n D n P m P g m R S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="155.07288" y="507.95825" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="266">
+        <attvalues>
+          <attvalue for="RAGA" value="Shankara"></attvalue>
+          <attvalue for="THAAT" value="Bilaval"></attvalue>
+          <attvalue for="TIME" value="Late Night, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="S G P N D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N P G P G S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="S 'N 'P 'N 'D S G P G R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="291.13654" y="-255.13759" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="267">
+        <attvalues>
+          <attvalue for="RAGA" value="Shree"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="After sunset, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S R m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N r' N d M d M G r S"></attvalue>
+          <attvalue for="VADI" value="r"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="r r P M P d M G r S M P N S' r' N d P"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="312.604" y="-322.84198" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="268">
+        <attvalues>
+          <attvalue for="RAGA" value="Shivabhairav"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r S G m P d d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d P m g m P m G m r g r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="g m P d d' S' r' n d P d n d P m"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="269.01215" y="417.51593" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="269">
+        <attvalues>
+          <attvalue for="RAGA" value="Shuddha Kalyaan"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R G P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S N D P P M G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="D"></attvalue>
+          <attvalue for="PAKAD" value="S 'D 'P 'D S R G P G P  R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="360.4427" y="-224.95099" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="270">
+        <attvalues>
+          <attvalue for="RAGA" value="Shuddha Sarang"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Early Afternoon, 12-3"></attvalue>
+          <attvalue for="AAROHA" value="'N S R M P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M P m R N S'"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="R M P R m R S' N 'P 'N 'D S 'N R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="364.6521" y="-8.634613" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="271">
+        <attvalues>
+          <attvalue for="RAGA" value="Shuklabilaval"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G m P G m P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P D M G R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="m P D n G m G R S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-49.21646" y="-312.4019" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="272">
+        <attvalues>
+          <attvalue for="RAGA" value="Shyam Kalyaan"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M P G m R S"></attvalue>
+          <attvalue for="VADI" value="R"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="R P G m R 'N S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="464.98596" y="412.273" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="273">
+        <attvalues>
+          <attvalue for="RAGA" value="Sindhura Chhaya"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Early Morning, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' R' n D P m G m P g R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="m P D m P N S' R' n D P m G m P g R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-331.57465" y="-216.92462" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="274">
+        <attvalues>
+          <attvalue for="RAGA" value="Sindura"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Morning, 9-12"></attvalue>
+          <attvalue for="AAROHA" value="S R m P D S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D P d m P g R m m g S R S"></attvalue>
+          <attvalue for="VADI" value="S'"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="m P D S' n d P D m P D S'"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="433.5221" y="269.76282" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="275">
+        <attvalues>
+          <attvalue for="RAGA" value="Shuddha Barari"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P G r S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="G P D N D P P G r"></attvalue>
+          <attvalue for="JATI" value="Shadav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-185.33237" y="433.34497" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="276">
+        <attvalues>
+          <attvalue for="RAGA" value="Sohni"></attvalue>
+          <attvalue for="THAAT" value="Marva"></attvalue>
+          <attvalue for="TIME" value="Before Sunrise, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S G M D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D M D G M G r S"></attvalue>
+          <attvalue for="VADI" value="D"></attvalue>
+          <attvalue for="SAMVADI" value="G"></attvalue>
+          <attvalue for="PAKAD" value="M D N S r' S S N D M D G"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="288.1717" y="134.02606" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="277">
+        <attvalues>
+          <attvalue for="RAGA" value="Sourashtrabhairav"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Before Sunrise, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S 'N S m G D N S"></attvalue>
+          <attvalue for="AVAROHA" value="S d d P G m P G M r S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="m D N S' S' N d m"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="463.90155" y="266.2323" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="278">
+        <attvalues>
+          <attvalue for="RAGA" value="Sugharayi"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Late Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R g m P n P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n D n P m P g m R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="S n D n n P m R S R g"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-302.74738" y="-154.60733" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="279">
+        <attvalues>
+          <attvalue for="RAGA" value="Suha"></attvalue>
+          <attvalue for="THAAT" value="Kafi"></attvalue>
+          <attvalue for="TIME" value="Late Evening , 6-9"></attvalue>
+          <attvalue for="AAROHA" value="'n S g m P n m P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m P g m R S"></attvalue>
+          <attvalue for="VADI" value="m"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="'n S g g m P g m R S"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-157.8797" y="333.2021" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="280">
+        <attvalues>
+          <attvalue for="RAGA" value="Tilak Kamod"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Late Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' P n D P D m G S R G R S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="'P 'N S R G S R P m G R S P D m P S' P"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-221.06458" y="474.1942" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="281">
+        <attvalues>
+          <attvalue for="RAGA" value="Tilang"></attvalue>
+          <attvalue for="THAAT" value="Khamaj"></attvalue>
+          <attvalue for="TIME" value="Late Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S G m P N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n P m P G m P m G S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="m P N S' n P G m G S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="300.20648" y="358.02704" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="282">
+        <attvalues>
+          <attvalue for="RAGA" value="Todi abheri"></attvalue>
+          <attvalue for="THAAT" value="Asavari"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R G m P d P D n  S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d P m g r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="g"></attvalue>
+          <attvalue for="PAKAD" value="R m P d P g r g r S R G m P D n S' R' n d P m P g r g r S"></attvalue>
+          <attvalue for="JATI" value="Vakra"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-258.85245" y="103.51605" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="283">
+        <attvalues>
+          <attvalue for="RAGA" value="Triveni"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r r S S r G P G P d P S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P P G r r S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="S r P d P S' N d P G P G r"></attvalue>
+          <attvalue for="JATI" value="Audav-Shadav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="284.7373" y="369.823" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="284">
+        <attvalues>
+          <attvalue for="RAGA" value="Vasanth"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Early Morning, 3-6"></attvalue>
+          <attvalue for="AAROHA" value="S G M d N S' m G M d N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N d P M G M G r S"></attvalue>
+          <attvalue for="VADI" value="S'"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="M d r' S' N d P M G M G"></attvalue>
+          <attvalue for="JATI" value="Audav-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-143.03775" y="-321.8463" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="285">
+        <attvalues>
+          <attvalue for="RAGA" value="Vasanthmukhari"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G m P d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P m G R S"></attvalue>
+          <attvalue for="VADI" value="P"></attvalue>
+          <attvalue for="SAMVADI" value="S"></attvalue>
+          <attvalue for="PAKAD" value="P d n d P G m R S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-254.81947" y="317.77002" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="286">
+        <attvalues>
+          <attvalue for="RAGA" value="Vibhas"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r G P d S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' d P G r S"></attvalue>
+          <attvalue for="VADI" value="d"></attvalue>
+          <attvalue for="SAMVADI" value="r"></attvalue>
+          <attvalue for="PAKAD" value="G P d G P G r S"></attvalue>
+          <attvalue for="JATI" value="Audav-Audav"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-365.2445" y="-89.83826" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="287">
+        <attvalues>
+          <attvalue for="RAGA" value="Vihang"></attvalue>
+          <attvalue for="THAAT" value="Poorvi"></attvalue>
+          <attvalue for="TIME" value="Night, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="'N r G M D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="r' N D P M G r G m G r S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="G m r G m G G M D M G G r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="358.73737" y="-284.9634" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="288">
+        <attvalues>
+          <attvalue for="RAGA" value="Uttari gunakali"></attvalue>
+          <attvalue for="THAAT" value="Bhairav"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S r g m m P d n S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' n d P d m P g g m r S"></attvalue>
+          <attvalue for="VADI" value="S"></attvalue>
+          <attvalue for="SAMVADI" value="P"></attvalue>
+          <attvalue for="PAKAD" value="d m P d m P g g m r S"></attvalue>
+          <attvalue for="JATI" value="Sampurna-Sampurna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-187.07797" y="-365.29816" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="289">
+        <attvalues>
+          <attvalue for="RAGA" value="Yaman (Kalyaan)"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Evening, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="'N r G M D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P M G m G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="N"></attvalue>
+          <attvalue for="PAKAD" value="'N R G M P R G m G  R G R 'N R S"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-197.27863" y="-34.132996" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="290">
+        <attvalues>
+          <attvalue for="RAGA" value="YamaniBilaval"></attvalue>
+          <attvalue for="THAAT" value="Kalyaan"></attvalue>
+          <attvalue for="TIME" value="Morning, 6-9"></attvalue>
+          <attvalue for="AAROHA" value="S R G P D N S'"></attvalue>
+          <attvalue for="AVAROHA" value="S' N D P D n D P M G m G R G R S"></attvalue>
+          <attvalue for="VADI" value="G"></attvalue>
+          <attvalue for="SAMVADI" value="D"></attvalue>
+          <attvalue for="PAKAD" value="D n D P M G m G R"></attvalue>
+          <attvalue for="JATI" value="Shadav-Sampoorna"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-14.300171" y="69.46747" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="78" target="110">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="78" target="112">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="79" target="88">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="79" target="95">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="79" target="101">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="80" target="96">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="82" target="93">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="82" target="114">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="82" target="127">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="83" target="98">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="83" target="106">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="83" target="125">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="84" target="87">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="84" target="110">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="85" target="86">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="85" target="106">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="85" target="108">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="85" target="113">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="86" target="97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="86" target="108">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="87" target="93">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="87" target="118">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="88" target="91">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="89" target="94">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="90" target="117">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="91" target="103">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="91" target="104">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="91" target="120">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="92" target="122">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="93" target="116">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="94" target="124">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="95" target="111">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="98" target="106">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="98" target="120">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="98" target="123">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="99" target="115">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="101" target="102">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="101" target="121">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="101" target="127">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="102" target="115">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="102" target="118">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="103" target="122">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="105" target="121">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="105" target="122">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="106" target="119">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="107" target="116">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="109" target="110">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="109" target="122">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="109" target="126">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="111" target="117">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="112" target="120">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="112" target="124">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="114" target="120">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="118" target="120">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="118" target="125">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
